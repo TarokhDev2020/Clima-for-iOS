@@ -8,6 +8,9 @@ Search cities for the weather conditions and get your city's weather condition
 $ cd /Users/user/my_project
 $ git clone https://github.com/TarokhDev2020/Clima-for-iOS.git
 ```
+* Get your api key from [OpenWeatherMap](https://openweathermap.org/)
+* Go to settings.swift and replace your api key
+
 ## Design Pattern ##
 * MVC
 
